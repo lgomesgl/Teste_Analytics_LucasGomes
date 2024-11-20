@@ -1,0 +1,186 @@
+,ID,Data,Produto,Categoria,Quantidade,Preço
+0,1,24/11/2023,Fone de Ouvido,Eletrônicos,3.0,383.7
+1,2,30/10/2023,Calça Jeans,Vestuário,4.0,86.56
+2,3,07/10/2023,Calça Jeans,Vestuário,28.0,178.83
+3,4,23/05/2023,Monitor,Eletrônicos,27.0,2414.43
+4,5,23/01/2023,Marcador,Papelaria,58.0,18.41
+5,7,21/02/2023,Tênis,Vestuário,35.0,508.07
+6,8,16/12/2023,Livro,Papelaria,9.0,125.73
+7,9,24/11/2023,Estojo,Papelaria,71.0,18.78
+8,10,25/07/2023,Micro-ondas,Eletrodomésticos,8.0,489.88
+9,11,26/11/2023,Vestido,Vestuário,18.0,169.2
+10,12,24/07/2023,Camiseta,Vestuário,28.0,99.79
+11,13,23/03/2023,Capacete,Esportes,87.0,268.86
+12,14,06/01/2023,Caneta,Papelaria,92.0,4.06
+13,15,22/03/2023,Vestido,Vestuário,0.0,479.22
+14,16,17/11/2023,Fogão,Eletrodomésticos,81.0,1769.16
+15,17,01/01/2023,Estante,Móveis,41.0,1232.91
+16,18,04/05/2023,Toalha,Decoração,72.0,96.29
+17,19,07/03/2023,Caneta,Papelaria,60.0,19.04
+18,20,20/12/2023,Mouse,Eletrônicos,91.0,82.99
+19,21,26/04/2023,Tablet,Eletrônicos,43.0,748.38
+20,22,04/02/2023,Toalha,Decoração,4.0,90.17
+21,23,20/10/2023,Sofá,Móveis,60.0,1971.99
+22,24,30/07/2023,Vestido,Vestuário,93.0,74.38
+23,25,25/02/2023,Geladeira,Eletrodomésticos,24.0,2760.84
+24,26,15/08/2023,Capacete,Esportes,70.0,139.16
+25,27,02/05/2023,Teclado,Eletrônicos,52.0,171.41
+26,28,16/05/2023,Tapete,Decoração,100.0,649.59
+27,29,07/09/2023,Monitor,Eletrônicos,24.0,1093.42
+28,30,27/10/2023,Boné,Vestuário,64.0,139.52
+29,31,04/02/2023,Caneta,Papelaria,32.0,9.27
+30,32,03/12/2023,Sofá,Móveis,72.0,3091.13
+31,33,10/12/2023,Livro,Papelaria,38.0,96.87
+32,34,21/02/2023,Tablet,Eletrônicos,68.0,1190.25
+33,35,22/03/2023,Vestido,Vestuário,48.0,366.59
+34,36,03/06/2023,Tapete,Decoração,84.0,172.51
+35,37,25/05/2023,Estante,Móveis,26.0,1576.42
+36,40,09/07/2023,Sofá,Móveis,70.0,1592.38
+37,41,03/07/2023,Mouse,Eletrônicos,87.0,72.42
+38,42,21/03/2023,Tapete,Decoração,64.5,705.22
+39,43,20/06/2023,Capacete,Esportes,52.0,420.89
+40,44,20/01/2023,Vaso de Planta,Decoração,60.0,60.04
+41,45,13/01/2023,Caneta,Papelaria,24.0,9.17
+42,47,20/01/2023,Fone de Ouvido,Eletrônicos,76.0,245.55
+43,48,23/10/2023,Mouse,Eletrônicos,32.0,37.55
+44,49,10/12/2023,Mouse,Eletrônicos,46.0,103.32
+45,50,03/06/2023,Cadeira,Móveis,39.0,583.48
+46,51,14/07/2023,Caneta,Papelaria,32.0,18.25
+47,52,09/08/2023,Capacete,Esportes,74.0,342.66
+48,53,28/03/2023,Caneta,Papelaria,10.0,7.11
+49,55,19/11/2023,Sofá,Móveis,24.0,3873.38
+50,56,24/02/2023,Bicicleta,Esportes,54.0,1047.1
+51,57,04/03/2023,Vestido,Vestuário,17.0,410.64
+52,58,10/11/2023,Relógio de Parede,Decoração,92.0,451.41
+53,59,19/08/2023,Micro-ondas,Eletrodomésticos,96.0,522.52
+54,60,09/02/2023,Estojo,Papelaria,36.0,19.38
+55,61,20/03/2023,Estojo,Papelaria,27.0,12.57
+56,62,27/10/2023,Estojo,Papelaria,2.0,44.27
+57,63,03/08/2023,Mesa,Móveis,95.0,1181.56
+58,64,19/07/2023,Máquina de Lavar,Eletrodomésticos,85.0,3197.85
+59,65,14/01/2023,Tapete,Decoração,50.0,514.32
+60,66,14/05/2023,Tênis,Vestuário,41.0,290.49
+61,67,10/05/2023,Relógio de Parede,Decoração,10.0,261.64
+62,68,30/11/2023,Celular,Eletrônicos,96.0,608.6
+63,69,28/02/2023,Sofá,Móveis,27.0,2860.14
+64,70,25/03/2023,Fogão,Eletrodomésticos,13.0,1946.71
+65,71,12/04/2023,Tablet,Eletrônicos,75.0,2288.41
+66,72,03/03/2023,Capacete,Esportes,72.0,413.05
+67,73,04/08/2023,Relógio de Parede,Decoração,62.0,97.49
+68,74,25/09/2023,Livro,Papelaria,34.0,127.02
+69,75,15/06/2023,Vaso de Planta,Decoração,31.0,169.53
+70,76,14/07/2023,Máquina de Lavar,Eletrodomésticos,3.0,2735.77
+71,77,02/11/2023,Estojo,Papelaria,35.0,32.23
+72,78,04/05/2023,Estojo,Papelaria,60.0,35.84
+73,79,06/06/2023,Caneta,Papelaria,74.0,8.64
+74,80,21/08/2023,Micro-ondas,Eletrodomésticos,39.0,526.26
+75,81,05/04/2023,Mouse,Eletrônicos,27.0,155.56
+76,82,10/04/2023,Fogão,Eletrodomésticos,50.0,1402.2
+77,83,30/05/2023,Estojo,Papelaria,16.0,35.51
+78,84,24/06/2023,Teclado,Eletrônicos,6.0,113.12
+79,85,18/12/2023,Celular,Eletrônicos,19.0,1022.19
+80,86,07/11/2023,Estante,Móveis,79.0,838.53
+81,87,06/06/2023,Sofá,Móveis,79.0,1240.92
+82,89,29/04/2023,Fogão,Eletrodomésticos,90.0,1206.8
+83,90,29/10/2023,Caneta,Papelaria,25.0,9.65
+84,91,26/03/2023,Capacete,Esportes,39.0,338.02
+85,92,26/07/2023,Micro-ondas,Eletrodomésticos,64.0,785.98
+86,93,14/01/2023,Tablet,Eletrônicos,29.0,2912.4
+87,94,18/05/2023,Sofá,Móveis,5.0,4052.44
+88,95,12/08/2023,Livro,Papelaria,62.0,194.12
+89,96,30/07/2023,Estojo,Papelaria,63.0,21.53
+90,97,15/06/2023,Fone de Ouvido,Eletrônicos,98.0,231.88
+91,98,07/04/2023,Cadeira,Móveis,46.0,554.71
+92,100,08/01/2023,Mesa,Móveis,52.0,411.85
+93,101,13/09/2023,Tapete,Decoração,91.0,304.3
+94,102,16/03/2023,Tênis,Vestuário,24.0,929.68
+95,103,01/08/2023,Máquina de Lavar,Eletrodomésticos,100.0,2769.34
+96,104,08/09/2023,Vaso de Planta,Decoração,19.0,100.38
+97,105,07/04/2023,Estojo,Papelaria,30.0,32.87
+98,106,15/07/2023,Tênis,Vestuário,84.0,813.15
+99,107,19/06/2023,Vaso de Planta,Decoração,12.0,177.35
+100,108,02/12/2023,Monitor,Eletrônicos,9.0,1438.98
+101,109,12/12/2023,Vaso de Planta,Decoração,68.0,124.79250000000002
+102,110,05/02/2023,Geladeira,Eletrodomésticos,80.0,4737.6
+103,111,27/12/2023,Vaso de Planta,Decoração,12.0,99.86
+104,112,11/07/2023,Calça Jeans,Vestuário,18.0,133.72
+105,113,15/07/2023,Estante,Móveis,87.0,861.24
+106,114,05/01/2023,Toalha,Decoração,59.0,93.08
+107,115,24/11/2023,Calça Jeans,Vestuário,88.0,135.02
+108,117,18/12/2023,Bicicleta,Esportes,95.0,2934.01
+109,118,28/04/2023,Estante,Móveis,45.0,828.51
+110,119,12/03/2023,Livro,Papelaria,12.0,181.65
+111,120,16/02/2023,Tapete,Decoração,37.0,328.7
+112,121,14/09/2023,Tapete,Decoração,34.0,681.33
+113,122,23/06/2023,Capacete,Esportes,14.0,287.33
+114,124,11/12/2023,Micro-ondas,Eletrodomésticos,74.0,642.92
+115,125,15/10/2023,Máquina de Lavar,Eletrodomésticos,78.0,2053.42
+116,126,13/03/2023,Celular,Eletrônicos,4.0,1565.28
+117,127,10/12/2023,Marcador,Papelaria,89.0,28.65
+118,128,08/09/2023,Estante,Móveis,52.0,1908.58
+119,129,05/07/2023,Fone de Ouvido,Eletrônicos,87.0,215.3
+120,130,21/08/2023,Tablet,Eletrônicos,84.0,1187.84
+121,131,17/10/2023,Mouse,Eletrônicos,8.0,171.07
+122,132,02/11/2023,Notebook,Eletrônicos,35.0,7150.44
+123,133,14/01/2023,Monitor,Eletrônicos,1.0,1216.48
+124,134,04/08/2023,Cadeira,Móveis,14.0,634.68
+125,135,11/11/2023,Celular,Eletrônicos,93.0,3241.29
+126,136,03/09/2023,Vaso de Planta,Decoração,51.0,96.73
+127,137,17/03/2023,Tablet,Eletrônicos,16.0,1332.54
+128,138,21/08/2023,Cadeira,Móveis,77.0,429.63
+129,139,21/04/2023,Calça Jeans,Vestuário,57.0,275.38
+130,140,10/06/2023,Caneta,Papelaria,32.0,8.74
+131,141,19/02/2023,Marcador,Papelaria,94.0,14.32
+132,142,30/07/2023,Camiseta,Vestuário,85.0,95.29
+133,143,23/02/2023,Sofá,Móveis,64.0,1850.96
+134,144,23/05/2023,Sofá,Móveis,28.0,4228.89
+135,145,14/01/2023,Estante,Móveis,84.0,1744.19
+136,146,04/01/2023,Teclado,Eletrônicos,52.0,191.58
+137,147,21/04/2023,Tênis,Vestuário,53.0,508.28
+138,149,01/08/2023,Micro-ondas,Eletrodomésticos,27.0,979.45
+139,150,08/12/2023,Fogão,Eletrodomésticos,5.0,1051.3
+140,151,11/05/2023,Fogão,Eletrodomésticos,41.0,799.96
+141,152,14/10/2023,Relógio de Parede,Decoração,62.0,412.79
+142,153,10/06/2023,Sofá,Móveis,44.0,3293.6
+143,154,13/11/2023,Vestido,Vestuário,88.0,463.9
+144,155,22/07/2023,Vaso de Planta,Decoração,39.0,154.24
+145,156,10/04/2023,Toalha,Decoração,99.0,54.46
+146,157,12/04/2023,Teclado,Eletrônicos,77.0,88.22
+147,158,16/10/2023,Bicicleta,Esportes,74.0,1622.26
+148,159,18/11/2023,Máquina de Lavar,Eletrodomésticos,19.0,2599.41
+149,160,07/02/2023,Fogão,Eletrodomésticos,59.0,1629.78
+150,161,11/11/2023,Estante,Móveis,53.5,1076.72
+151,162,20/10/2023,Livro,Papelaria,24.0,71.09
+152,163,25/06/2023,Estojo,Papelaria,10.0,30.18
+153,164,23/03/2023,Camiseta,Vestuário,47.0,93.43
+154,165,21/06/2023,Tablet,Eletrônicos,42.0,917.36
+155,166,18/03/2023,Máquina de Lavar,Eletrodomésticos,10.0,2956.85
+156,167,01/11/2023,Estojo,Papelaria,10.0,22.38
+157,168,17/12/2023,Tapete,Decoração,67.0,165.42
+158,169,24/06/2023,Bicicleta,Esportes,62.0,980.01
+159,171,25/03/2023,Teclado,Eletrônicos,88.0,242.77
+160,172,02/05/2023,Vestido,Vestuário,78.0,178.22
+161,173,29/08/2023,Toalha,Decoração,24.0,55.75
+162,174,28/09/2023,Calça Jeans,Vestuário,20.0,259.72
+163,175,11/10/2023,Tapete,Decoração,13.0,597.98
+164,176,20/09/2023,Monitor,Eletrônicos,55.0,683.43
+165,177,22/07/2023,Cadeira,Móveis,47.0,303.26
+166,178,29/11/2023,Máquina de Lavar,Eletrodomésticos,18.0,1844.0
+167,182,11/11/2023,Camiseta,Vestuário,30.0,65.65
+168,183,06/10/2023,Cadeira,Móveis,100.0,792.42
+169,184,10/05/2023,Marcador,Papelaria,2.0,13.93
+170,185,20/06/2023,Monitor,Eletrônicos,5.0,1204.6
+171,186,03/09/2023,Livro,Papelaria,23.0,132.74666666666667
+172,187,13/04/2023,Toalha,Decoração,5.0,77.95
+173,188,28/11/2023,Mouse,Eletrônicos,36.0,90.69
+174,189,24/07/2023,Marcador,Papelaria,56.0,27.37
+175,190,23/09/2023,Micro-ondas,Eletrodomésticos,10.0,954.37
+176,191,10/02/2023,Máquina de Lavar,Eletrodomésticos,84.0,2239.1
+177,192,30/06/2023,Estante,Móveis,55.0,911.83
+178,193,14/12/2023,Teclado,Eletrônicos,3.0,85.69
+179,195,09/02/2023,Sofá,Móveis,17.0,3117.84
+180,196,13/09/2023,Cadeira,Móveis,49.0,743.8
+181,197,22/12/2023,Tapete,Decoração,62.0,240.12
+182,198,16/12/2023,Vaso de Planta,Decoração,40.0,140.21
+183,199,30/12/2023,Tapete,Decoração,89.0,546.39
+184,200,10/09/2023,Notebook,Eletrônicos,46.0,5324.13
