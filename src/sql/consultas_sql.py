@@ -9,7 +9,7 @@ df = pd.read_csv(csv_path)
 
 df['Data'] = pd.to_datetime(df['Data'], format='%d/%m/%Y')
 
-conn = sqlite3.connect("sales_data.db")
+conn = sqlite3.connect("sales_dataset.db")
 cursor = conn.cursor()
 
 cursor.execute("""
@@ -58,3 +58,5 @@ LIMIT 10;
 
 result2 = pd.read_sql_query(query2, conn)
 print(result2)
+
+conn.close()
