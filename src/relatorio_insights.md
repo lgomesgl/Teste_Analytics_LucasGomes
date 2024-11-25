@@ -2,13 +2,13 @@
 
 ## Products
 ### Insights
-1. **Top 5 products by quantity sold**: Carpet, Shelf, Sofa, Helmet, and Washing Machine.
-2. **Top 5 products by total sales value**: Sofa, Washing Machine, Shelf, Tablet, and Bicycle.
+1. **Top 5 products by quantity sold**: Tapete, Estante, Sofá, Capacete e Máquina de Lavar.
+2. **Top 5 products by total sales value**: Sofá, Máquina de Lavar, Estante, Tablet e Bicicleta.
 3. The **notebook's average price** is significantly higher than the average for the electronics category. Notebooks rank as the second-worst product in terms of total units sold and second-worst in the electronics category.
 4. The **monitor** performs poorly, with sales quantity far below the category average.
 
 ### Actions
-1. Sofa, Washing Machine, and Shelf show a good balance between price and demand — **no changes required**.
+1. Sofá, Máquina de Lavar and Estante show a good balance between price and demand — **no changes required**.
 2. Carpet and Helmet: High unit sales but low prices — **review and reassess profit margins**.
 3. Tablet and Bicycle: Low unit sales but high prices — **invest in inventory and marketing**.
 4. Notebook: **Reduce the average price** to encourage sales.
