@@ -51,6 +51,7 @@ jupyter notebook
 ```
 
 ## Folders Structure
+```bash
 Quod-ps/
 │
 ├── .ipynb_checkpoints/       
@@ -62,3 +63,4 @@ Quod-ps/
 ├── relatorio_insights.md     # Insights and reports
 ├── .gitignore               
 ├── README.md                 
+```
