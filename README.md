@@ -21,8 +21,8 @@ Make sure you have the following installed:
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/lgomesgl/Chatbot-NeuralMind-PS.git
-cd 
+git clone https://github.com/lgomesgl/Teste_Analytics_LucasGomes.git
+cd Teste_Analytics_LucasGomes
 ```
 
 ### Step 2: Create a Virtual Environment and activate
