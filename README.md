@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-The first part involves creating a sales-related database with the following columns:ID, Date, Product, Category, Quantity, Price. The data period should range from 01/01/2023 to 12/31/2023. After creating the database, clean the data and save it as a file named data_clean.csv (inside the data folder). Additionally, create new columns, such as total sales. This step was carried out in the notebook clean_and_analyse_data. Subsequently, create a new notebook (exploratory_analysis) to perform the Exploratory Data Analysis (EDA) on the sales database. The SQL part is located in the /src/sql folder, in the consultas.sql file. A report in Markdown format was also created.
+The first part involves creating a sales-related database with the following columns:ID, Date, Product, Category, Quantity, Price. The data period should range from 01/01/2023 to 12/31/2023. After creating the database, clean the data and save it as a file named data_clean.csv (inside the data folder). Additionally, create new columns, such as total sales. This step was carried out in the notebook clean_and_analyse_data. Subsequently, create a new notebook (exploratory_analysis) to perform the Exploratory Data Analysis (EDA) on the sales database. The SQL part is located in the /src/sql folder, in the consultas.sql file. A report in Markdown format (relatorio_insights.md) was also created at /scr.
 
 ## Getting Started
 
-### Prerequisites
+### Pre requisites
 
 Make sure you have the following installed:
 - [Git](https://git-scm.com/)
@@ -55,12 +55,13 @@ jupyter notebook
 Quod-ps/
 │
 ├── .ipynb_checkpoints/       
-├── data/                     # Directory for datasets
+├── data/                      # Directory for datasets
 ├── src/                      
-│   ├── notebooks/            # Jupyter notebooks 
-│   ├── sql/                  # SQL scripts
-│
-├── relatorio_insights.md     # Insights and reports
+│   ├── notebooks/             # Jupyter notebooks 
+│   ├── sql/                   # SQL scripts
+│   ├── relatorio_insights.md  # report of src
+│    
+├── relatorio_insights.md      # Insights and reports
 ├── .gitignore               
 ├── README.md                 
 ```

@@ -13,6 +13,10 @@
 3. Tablet and Bicicleta: Low unit sales but high prices — **invest in inventory and marketing**.
 4. Notebook: **Reduce the average price** to encourage sales.
 5. Monitor: Implement **marketing campaigns and sales incentives** to boost performance.
+<p align="center">
+  <img src="../media/product_quant.png" alt="Image 1" width="300">
+  <img src="../media/product_price.png" alt="Image 2" width="300">
+</p>
 
 ## Categories
 ### Insights
@@ -20,6 +24,9 @@
 2. **Good-performing categories** (above-average price but below-average quantity): Eletrodomésticos.
 3. **Moderate-performing categories** (below-average price but above-average quantity): Decoração.
 4. **Low-performing categories** (below-average price and quantity): Esportes, papelaria e vestuário.
+<p align="center">
+  <img src="../media/price_quant_category.png" alt="Image 1" width="300">
+</p>
 
 ### Actions
 1. **Esportes**: The category is close to moving from "low-performing" to "moderate-performing." **Increase the average price** to improve profitability.
@@ -30,6 +37,10 @@
 1. Sales peaks occur mid-year and at the end of the year.
 2. Above-average sales months: January, April, June, July, November, and December.
 3. February sales **108 sofá sold**, while November sales **189 telefones sold**.
+<p align="center">
+  <img src="../media/TotalSales_data.png" alt="Image 1" width="300">
+  <img src="../media/TotalSales_data_product.png" alt="Image 1" width="300">
+</p>
 
 ### Actions
 1. **Capitalize on peak months** by increasing inventory and launching targeted promotions.
